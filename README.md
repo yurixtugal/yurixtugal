@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yurixtugal
+- 👋 Hi, I’m Yuri Portugal, Software Engineer
 - 👀 I’m interested in Javascript, NodeJS, Solidity, Java, C++, Ethereum,  Software Design, Agile Project Managment
 - 🌱 I’m currently learning solidity, web3
 - 💞️ I’m looking to collaborate on solidity and web3 projects
