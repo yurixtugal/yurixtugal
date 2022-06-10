@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yurixtugal
-- 👀 I’m interested in javascript, solidity, ethereum, java, c++, software design, agile project managment
+- 👀 I’m interested in Javascript, NodeJS, Solidity, Java, C++, Ethereum,  Software Design, Agile Project Managment
 - 🌱 I’m currently learning solidity, web3
 - 💞️ I’m looking to collaborate on solidity and web3 projects
-- 📫 How to reach me yurixtugal2@gmail.com
+- 📫 How to reach me yurixtugal12@gmail.com
 
 <!---
 yurixtugal/yurixtugal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
