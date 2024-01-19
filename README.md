@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuri Portugal</h1>
 <h3 align="center">A passionate fullstack developer from Perú</h3>
 
-- 🔭 I’m currently works as a Software Engineer
+- 🔭 I work as a Software Engineer
 
 - 🌱 I’m currently learning **Rust**
 
