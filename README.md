@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yuri Portugal</h1>
 <h3 align="center">A passionate fullstack developer from Perú</h3>
 
-- 🔭 I’m currently working on [Simply 360](https://www.simply360.org/)
+- 🔭 I’m currently works as a Software Engineer
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **nodejs, vue, java**
+- 💬 Ask me about **Node.js, Vue, Next.js, AWS**
 
 - 📫 How to reach me **yurixtugal12@gmail.com**
 
