@@ -3,7 +3,7 @@
 
 - 🔭 I work as a Software Engineer
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Node.js, Vue, Next.js, AWS**
 
